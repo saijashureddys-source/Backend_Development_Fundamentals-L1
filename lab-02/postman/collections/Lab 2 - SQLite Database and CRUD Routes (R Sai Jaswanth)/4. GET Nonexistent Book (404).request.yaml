@@ -1,5 +1,0 @@
-$kind: http-request
-description: Verify 404 response for a book ID that does not exist.
-url: "{{baseUrl}}/books/999/"
-method: GET
-order: 4000

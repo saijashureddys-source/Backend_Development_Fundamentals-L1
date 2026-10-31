@@ -1,8 +1,0 @@
-$kind: collection
-description: |-
-  Postman API test collection for Lab 2: SQLite Database and CRUD Routes.
-  Student: R Sai Jaswanth
-  Reg No: 252U1R7084
-  Section: CSE (FSD)-2B
-variables:
-  baseUrl: http://localhost:3000
