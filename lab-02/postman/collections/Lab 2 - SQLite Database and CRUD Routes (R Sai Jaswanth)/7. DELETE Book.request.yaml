@@ -1,0 +1,5 @@
+$kind: http-request
+description: Delete a book record from the database by ID.
+url: "{{baseUrl}}/books/11/"
+method: DELETE
+order: 7000

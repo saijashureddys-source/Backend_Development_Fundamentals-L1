@@ -1,0 +1,5 @@
+$kind: http-request
+description: Retrieve details of a single book with ID = 1.
+url: "{{baseUrl}}/books/1/"
+method: GET
+order: 3000

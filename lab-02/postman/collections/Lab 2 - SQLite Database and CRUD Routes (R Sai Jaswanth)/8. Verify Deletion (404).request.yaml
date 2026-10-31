@@ -1,0 +1,5 @@
+$kind: http-request
+description: Confirm that the deleted book ID 11 returns 404 Not Found.
+url: "{{baseUrl}}/books/11/"
+method: GET
+order: 8000
