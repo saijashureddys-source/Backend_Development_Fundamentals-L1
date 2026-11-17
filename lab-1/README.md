@@ -12,7 +12,7 @@
 To create and test basic HTTP and Express.js servers using Node.js, implement multiple routes, and handle HTTP status codes.
 
 ## live link
-https://backend-development-fundamentals-l1.onrender.com
+https://backend-development-fundamental-l1.onrender.com
 
 ## Technologies Used
 
